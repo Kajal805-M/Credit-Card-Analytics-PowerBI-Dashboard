@@ -133,11 +133,12 @@ Two interactive **Power BI reports** were built:
 
 ### 🔹 Credit Card Transaction Report
 
-📷 ![Credit Card Transaction Report](https://github.com/kuldeepmishra92/Credit-Card-Analytics-Dashboard-in-Power-BI/blob/main/Credit%20Card%20Transactions%20Report_67351301_1.jpg)
+![Credit Card Transaction Report](https://raw.githubusercontent.com/Kajal805-M/Credit-Card-Analytics-PowerBI-Dashboard/main/Credit%20Card%20Transactions%20Report_67351301_1.jpg)
+
 
 ### 🔹 Credit Card Customer Report
 
-📷 ![Credit Card Customer Report](https://github.com/kuldeepmishra92/Credit-Card-Analytics-Dashboard-in-Power-BI/blob/main/Credit%20Card%20Customer%20Report_67351359_1.jpg)
+![Credit Card Customer Report](https://raw.githubusercontent.com/Kajal805-M/Credit-Card-Analytics-PowerBI-Dashboard/main/Credit%20Card%20Customer%20Report_67351359_1.jpg)
 
 ---
 
